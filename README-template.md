@@ -49,6 +49,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 * create style.css, link it, apply resets, apply style guide
 * adjust alignment
 
+* realized after nearly finishing mobile design that I need to think about how to divide the Grid.  This should inform the DOM structure (I got close but not perfect this time without thinking of that.  So just do that first next time...)
+
+
 
 ### Built with
 

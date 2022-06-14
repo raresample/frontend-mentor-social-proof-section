@@ -45,6 +45,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+* divide index.html body into elements, add images
+* create style.css, link it, apply resets, apply style guide
+* adjust alignment
+
+
 ### Built with
 
 - Semantic HTML5 markup

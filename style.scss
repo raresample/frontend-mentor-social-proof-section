@@ -1,0 +1,6 @@
+$base-color: green;
+
+.card {
+  background: ligthen($base-color, 25%);
+  color: darken($base-color, 25%)
+}
